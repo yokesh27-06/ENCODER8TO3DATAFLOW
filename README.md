@@ -64,7 +64,7 @@ RegisterNumber:24005930
 
 
 **RESULTS**
-
+The encoder data flow of the output is verified.
 
 
 
